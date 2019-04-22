@@ -8,6 +8,18 @@ Postman 是一个很强大的 API调试、Http请求的工具
 
 [Postman 官网](https://www.getpostman.com/)
 
+## 2、VS Code
+
+非常好用的编辑器，其实也可以称得上一个 IDE 了
+
+[下载链接](https://code.visualstudio.com/download)
+
+## 3、飞冰
+
+阿里开发的前端页面快速构建工具
+
+[下载链接](https://ice.work/iceworks)
+
 
 # Chrome 浏览器插件
 
