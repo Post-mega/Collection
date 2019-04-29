@@ -2,9 +2,29 @@
 
 还有一些我收藏的网址
 
+## 下载资源
+
+[RARBG](https://rarbg.is/torrents.php)
+
+[中国高清网](http://gaoqing.la/)
+
+[电影推荐](http://www.mvcat.com/)
+
+## 工具类网站
+
 [MSDN](http://www.itellyou.cn/)
 
 [幕布](https://mubu.com/)
+
+[WolframAlpha](http://www.wolframalpha.com/)
+
+## 设计类
+
+[IconFont](http://www.iconfont.cn/)
+
+[CGer](http://www.newcger.com/)
+
+[搞定设计](https://www.gaoding.com/)
 
 [Algorithm Visualizer](http://algorithm-visualizer.org/#path=backtracking/knight's_tour/basic)
 
@@ -16,26 +36,18 @@
 
 [数模知识库](http://www.shumo.com/wiki/doku.php?id=start)
 
-[WolframAlpha](http://www.wolframalpha.com/)
 
-[电影推荐](http://www.mvcat.com/)
 
 [搬书匠](http://www.banshujiang.cn/)
 
-[RARBG](https://rarbg.is/torrents.php)
-
-[中国高清网](http://gaoqing.la/)
 
 [TensorFlow](https://tensorflow.google.cn/?hl=zh-CN)
 
-[Colaboratory](https://)colab.research.google.com/notebooks/welcome.ipynb
+[Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb)
 
 [MIT](https://deeplearning.mit.edu/)
 
 
-[IconFont](http://www.iconfont.cn/)
-
-[CGer](http://www.newcger.com/)
 
 [AntDesign](https://ant.design/)
 
@@ -47,7 +59,6 @@
 
 [TensorFlowJS](https://js.tensorflow.org/)
 
-[搞定设计](https://www.gaoding.com/)
 
 [电工常用计算工具](http://www.dwenzhao.cn/cal/index.html)
 
