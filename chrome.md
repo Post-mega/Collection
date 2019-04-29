@@ -8,12 +8,6 @@
 
 [Algorithm Visualizer](http://algorithm-visualizer.org/#path=backtracking/knight's_tour/basic)
 
-[MSDN](http://www.itellyou.cn/)
-
-[MSDN](http://www.itellyou.cn/)
-
-[MSDN](http://www.itellyou.cn/)
-
 [VS 2017 激活码](https://tieba.baidu.com/p/5013356550?red_tag=2658623022)
 
 [国家数据](http://data.stats.gov.cn/)
@@ -84,3 +78,19 @@
 [菜鸟教程](http://www.runoob.com/)
 
 [W3CSchool](https://www.w3cschool.cn/)
+
+[LeetCode](https://leetcode.com/problemset/all/)
+
+[TED](https://www.ted.com/)
+
+[小米OJ](https://code.mi.com/site/index)
+
+[NPM官网](https://www.npmjs.com/)
+
+[Matlab机器学习教程](https://ww2.mathworks.cn/solutions/machine-learning/resources.html?s_tid=conf_addres_DA_eb)
+
+[在线图片格式转换](https://jinaconvert.com/cn/)
+
+[doyoudo](http://doyoudo.com/)
+
+[Vultr](https://vultr.com/)
